@@ -1,3 +1,8 @@
+# Application : On réalise une fonction qui retourne les racines carées d'un polynome du 2nd dégré
+# On doit saisir A, B, C
+# On calcule Delta, X1, X2 et on retourne sous forme d'un tuple
+# On utilise la bibliothèque "math"
+
 from math import sqrt
 
 def Polynome(x,y,z):

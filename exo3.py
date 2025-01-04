@@ -1,3 +1,7 @@
+# Application : Afficher la table de multiplication d'un nombre
+# - 1) Avec une boucle "while"
+# - 2) Avec une boucle "for"
+
 nombre=int(input("Nombre:"))
 i=1
 while(i<=10):

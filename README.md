@@ -1,2 +1,2 @@
 # L2GI-Python-Codes
- Enoncés & Corrigés d'exercies en Python
+ Enoncés & Corrigés d'exercices en Python

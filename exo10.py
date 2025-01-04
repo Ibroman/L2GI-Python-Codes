@@ -1,3 +1,7 @@
+# Application : On réalise la saisie des achats du panier d'un client
+# on stocke dans une "list" la désignation et la montant pour chaque produit acheté
+# à la fin de la saisie on affiche l'historique des achats et affiche le montant à payer
+
 principale=[]
 montant=0
 while(True):    

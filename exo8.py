@@ -1,3 +1,4 @@
+# Application : On réalise une fonction qui retourne le plus nombre des trois passés en paramètre
 
 def plusgrand(x,y,z):
     if x>=y and x>=z:

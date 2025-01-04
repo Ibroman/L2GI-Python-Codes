@@ -1,3 +1,8 @@
+# Application : Faire une boucle de N éléments
+# à chaque boucle on saisit un nombre entier
+# à la fin de la saisie on calcule la moyenne des nombres retenus de deux
+# façons différentes
+
 nombre=int(input("Donner un nombre:"))
 notes=[]
 somme=0
